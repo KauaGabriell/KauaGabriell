@@ -83,12 +83,12 @@ Experiência construída durante **6 meses de estágio no setor de tecnologia da
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-omega-topaz-98.vercel.app/api?username=KauaGabriell&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide=issues,contribs"
+    src="https://github-readme-stats-omega-topaz-98.vercel.app/api?username=KauaGabriell&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide=issues,contribs&v=2"
   />
   &nbsp;&nbsp;&nbsp;
   <img
     height="180em"
-    src="https://github-readme-stats-omega-topaz-98.vercel.app/api/top-langs/?username=KauaGabriell&layout=compact&theme=algolia&langs_count=8&count_private=true"
+    src="https://github-readme-stats-omega-topaz-98.vercel.app/api/top-langs/?username=KauaGabriell&layout=compact&theme=algolia&langs_count=8&count_private=true&v=2"
   />
 </p>
 
